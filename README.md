@@ -25,7 +25,8 @@ _Must be MIT, able to resell_
   - Search?
   - Taxonomy?
   - Notification?
-  - Mail — Swiftmailer
+  - Mail sender — Swiftmailer
+  - Mail action (Create video/task/comment via email)
   - Logging — Monolog
   - Payment?
   - Theming
