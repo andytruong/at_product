@@ -38,6 +38,12 @@ _Must be MIT, able to resell_
   - Inline help
   - Bug report
   - Email
+- Data Driven
+  - Tracking user actions — ?
+  - Tracking the traffic — Google Analytics
+  - AB Testing — https://www.optimizegoals.com/
+  - Campaign Management
+  - Contact Management — HighRise
 - Scale:
   - Platform — Heroku
   - Database — Postgres
