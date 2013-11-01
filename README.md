@@ -7,6 +7,10 @@ Studying how to create product from PHP opensource
 
 _Must be MIT, able to resell_
 
+- Team work
+  - Source code — git/github/bitbucket
+  - Chat — Skype/Hipchat/Campfire
+  - Issue tracker — Jira
 - Framework — Symfony
   - Data — Doctrine DBAL/ORM
   - Assets - Assetics
@@ -24,8 +28,8 @@ _Must be MIT, able to resell_
   - Mail — Swiftmailer
   - Logging — Monolog
   - Payment?
-- Theming
-  - SASS/Compass/Singularity/Glob/Breakpoint
+  - Theming
+    - SASS/Compass/Singularity/Glob/Breakpoint
 - QA
   - CI?
   - Framework — PHPUnit
