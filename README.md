@@ -8,25 +8,25 @@ Studying how to create product from PHP opensource
 _Must be MIT, able to resell_
 
 - Framework — Symfony
-- Data — Doctrine DBAL/ORM
-- Assets - Assetics
-- REST — FOSRest
-- User — FOSUser
-- User: Voting?
-- User: Badge/Karma?
-- Comment?
-- Flag (LIke/Dislike/Report abuse/Bookmark/…)
-- Rules?
-- Search?
-- Taxonomy
-- Notification?
-- Logging — Monolog
+  - Data — Doctrine DBAL/ORM
+  - Assets - Assetics
+  - REST — FOSRest
+  - User — FOSUser
+  - User: Voting?
+  - User: Badge/Karma?
+  - Form?
+  - Comment?
+  - Flag (LIke/Dislike/Report abuse/Bookmark/…)
+  - Rules — https://github.com/bobthecow/Ruler
+  - Search?
+  - Taxonomy?
+  - Notification?
+  - Mail — Swiftmailer
+  - Logging — Monolog
+  - Payment?
 - Support/Bug Report
-- Mail — Swiftmailer
-- Taxonomy?
-- Form?
-- Payment?
-- Scale: Platform — Heroku
-- Scale: Database — Postgre
-- Scale: Caching — Redis
-- Scale: File — S3
+- Scale:
+  - Platform — Heroku
+  - Database — Postgres
+  - Caching — Redis
+  - File — S3
