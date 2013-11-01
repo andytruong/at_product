@@ -38,6 +38,7 @@ _Must be MIT, able to resell_
   - PhantomJS
   - PhantomCSS
 - Support Systems:
+  - Documentation
   - Livechat
   - Tour
   - Inline help
