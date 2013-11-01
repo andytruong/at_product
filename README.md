@@ -24,13 +24,20 @@ _Must be MIT, able to resell_
   - Mail — Swiftmailer
   - Logging — Monolog
   - Payment?
+- Theming
+  - SASS/Compass/Singularity/Glob/Breakpoint
 - QA
   - CI?
   - Framework — PHPUnit
   - Mink
   - PhantomJS
   - PhantomCSS
-- Support/Bug Report
+- Support Systems:
+  - Livechat
+  - Tour
+  - Inline help
+  - Bug report
+  - Email
 - Scale:
   - Platform — Heroku
   - Database — Postgres
