@@ -29,6 +29,7 @@ _Must be MIT, able to resell_
   - Mail action (Create video/task/comment via email)
   - Logging — Monolog
   - Payment?
+  - OAuth server
   - Theming
     - SASS/Compass/Singularity/Glob/Breakpoint
 - QA
