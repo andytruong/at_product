@@ -24,6 +24,12 @@ _Must be MIT, able to resell_
   - Mail — Swiftmailer
   - Logging — Monolog
   - Payment?
+- QA
+  - CI?
+  - Framework — PHPUnit
+  - Mink
+  - PhantomJS
+  - PhantomCSS
 - Support/Bug Report
 - Scale:
   - Platform — Heroku
