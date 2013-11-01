@@ -25,6 +25,7 @@ _Must be MIT, able to resell_
 - Mail — Swiftmailer
 - Taxonomy?
 - Form?
+- Payment?
 - Scale: Platform — Heroku
 - Scale: Database — Postgre
 - Scale: Caching — Redis
